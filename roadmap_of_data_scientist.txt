@@ -1,0 +1,204 @@
+Matrices & Linear Algebra Fundamentals
+Hash Functions, Binary Tree, O(n)
+Relational algebra, DB Basics
+Inner, Outer, Cross, Theta Join
+CAP Theorem
+Tabular Data
+Entropy
+Data Frames & Series
+Sharding
+OLAP
+Multidimensional Data Model
+ETL
+Reporting Vs BI Vs Analytics
+JSON & XML
+NoSQL
+Regular EXpression
+Vendox Landscapes
+Env Setup
+
+2. Statistics
+Pick & Dataset(UCI Repo)
+Descriptive Statistics(mean, medium, range, SD, Var)
+Exploratory Data Analysis
+Histograms
+Percentiles & Outliers
+Probabilities & Outliers
+Probability Theorem
+Bayes Theorem
+Random Variables
+Continuous Distributions(Normal, Poisson, Gaussian)
+Skewness
+ANOVA (https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/anova/)
+Probability Density Function(PDF)
+Central Limit Theorem
+Monte Cario Method Hypothesis Testing
+P-Value
+Chi Test
+Estimation
+Confidence Interval(CI)
+MLE
+Kernel Density Estimate
+Regression
+Co-Variances
+Correlation
+Pearson Coeff
+Causation
+Least Fit
+Euclidean Distance
+
+
+3. Programming
+
+Python Basic
+Working in Excel
+R Setup & R Studio
+R Basic
+Expression 
+Variables
+IBM SPSS
+Rapid Miner
+Vectors
+Matrices
+Arrays
+Factors
+Lists
+Data Frames
+Reading CSV Data
+Reading Raw Data
+Subsetting Data
+Minipulate Data Frames
+Functions
+Factor Analysis
+Install Packages
+
+4. Machine Learning
+What is Machine Learning
+Numerical Variable
+Catagorical Variable
+Supervised Learning
+Unsupervised Learning
+Concepts, Inputs & Attributes
+Training & Test Data
+Classifier
+Prediction
+Lift
+Overfitting
+Bias & Variance
+Trees & Classification
+Classification Rate
+Decision Trees
+Boosting
+Naive Bayes Classifiers
+K-Mean Neighbor
+Logistic Regression
+Ranking
+Linear Regression
+Perceptions
+Hierarchical Clustaring
+K-Mean Clustering
+Neural Networks
+Seniment Analysis
+Collabarative Filtering
+Tagging
+Vocabulary Mapping
+
+5. Text Mining/ NLP
+Classify Text
+Using NLTK
+Using Weka
+Using Mahout
+Feature Extraction
+Market Based Analysis
+Association Rules
+Support Vector Machines
+Term Frequency & Weight
+Term Document Matrix
+Term Document Matrix
+UIMA
+Text Analysis
+Named Entity Recognition
+Corpus
+
+6. Visualization
+Data Exploration in R(Histogram, Boxplot etc)
+Uni, Bi & Multivariate Viz
+ggplot2
+Histogram & Pie (Uni)
+Tree & Tree Map
+Scatterr Plot(Bi)
+Line Charts(Bi)
+Spatial Charts
+Survey Plot
+Timeline
+Decision Tree
+D3.js
+Infovis
+IBM MarryEyesd
+Tableau
+
+7. Big Data
+Map Reduce Fundamentals
+Headoop Components
+HDFS
+Data Replication Principles
+Setup Hadoop(IBM/ Cdloudera/ HortonWorks)
+Name & Data Nodes
+Job & Task Tracker
+M/R Programming
+Sqoop: Loading Data in HDFS
+Flume, Scribe: for Unstructure Data
+SQL with Pig
+DWH with Hive
+Scribe, Chukwa for Weblog
+Using Mahout
+Zookeeper avro
+Storm: Hadoop Realtime
+RHadoop, RHIPE
+rmr
+Cassandra
+MongDB, Neo
+
+8. Data Ingestion
+
+Summary of Data Formats
+Data Discovery
+Data Sources & Acquisition
+Data Integration
+Data Fusion
+TRansformation * Enrichment
+Data Survey
+Google Openretime
+How much Data
+Using ETL
+
+9. Data Munging
+
+Dimensionality & Reduction
+Normalization
+Datta Scrubbing
+Handing Missing Var
+Feature Extraction
+Denoising
+Samplling
+Stratified
+Sampling
+Principal component Analysis
+
+10. Toolbox
+MS Excel in Analysis Toolpak
+Java, Python
+R, R-studio, Rattle
+Weka, Knime, RapidMiner
+Hadoop dist of choine
+Spark, Storm
+flume, Scibe, Chukwa
+Nutch, Taland, Scraperwiki
+Webscraper, Flume, Sqoop
+im, RWeka, NLTK
+RHIPE
+D3js, ggplot2, Shiny
+IBM Languageware
+Cassandra, MongoDB
+AWS Machine Learning
+Microsoft Azure AI
